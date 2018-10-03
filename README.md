@@ -8,3 +8,4 @@ Repository for homework 01
 * I have lived in over 5 countries
 ![](/Users/christinayu/Desktop/image_56.jpg)
 
+
