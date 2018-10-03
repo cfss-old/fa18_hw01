@@ -6,4 +6,4 @@ Repository for homework 01
 * I was born in Milan, Italy
 * If you like dogs, I like you
 * I have lived in over 5 countries
-![](/Users/christinayu/Desktop/hw01/figures/image_56.jpg)
+![](image_56.jpg)
