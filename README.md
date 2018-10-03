@@ -15,14 +15,14 @@ output: html_document
 ![This is me!](images/railway.jpg)  
 
 
-###Basics
+### Basics
 
 **Name:** Sanja Miklin  
 **Program:** Comparative Human Development  
 **Dissertation Topic:** Production of Knowledge About Suicide  
 
 
-###Extras
+### Extras
 
 In my free time, I do a whole lot of things, such as: 
 
