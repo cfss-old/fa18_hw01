@@ -18,6 +18,7 @@ output: html_document
 ### Basics
 
 **Name:** Sanja Miklin  
+ฅʕ•̫͡•ʔฅ *(note: the name is Croatian, it rhymes with 'lasagna')
 **Program:** Comparative Human Development  
 **Dissertation Topic:** Production of Knowledge About Suicide  
 
@@ -30,7 +31,7 @@ In my free time, I do a whole lot of things, such as:
     1. Salsa
     2. Bachata
     3. West Coast Swing
- - Circus Arts
+ - Circus Arts  **ᕙ(⇀‸↼‶)ᕗ**
     - Partner Acrobatics
     - Cyr Wheel
     - Contortion
