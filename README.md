@@ -1,8 +1,9 @@
 # hw01
-Repository for homework 01
-#Hello, my name is Yanting Wu
 
-##I am a MAPSS student studying Psychology 
+
+# Hello, my name is Yanting Wu
+
+## I am a MAPSS student studying Psychology 
 
 *I am originally from China*
 
