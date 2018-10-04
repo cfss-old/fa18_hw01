@@ -9,7 +9,3 @@ Repository for homework 01
 1. I have a younger sister 
 1. My interests lie in social psychology
 
-![GitHub Logo](/iclouddrive/desktop.png)
-Format: ![Alt Text](url)
-
-
