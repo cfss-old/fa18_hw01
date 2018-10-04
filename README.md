@@ -11,7 +11,7 @@ Repository for homework 01
 * I know how to juggle
 * I like to eat pizza
 
-![pizza](https://www.soccerunityproject.com/uploads/3/9/0/4/39046753/s248287166891139567_p50_il_w1920.jpeg)
+![pizza](https://www.soccerunityproject.com/uploads/3/9/0/4/39046753/s284287166891139567_p50_i1_w1920.jpeg)
 
 ###Bio and Photo
 *Here is a brief biography from the lab I worked in during undergrad.*
