@@ -1,12 +1,12 @@
 # hw01
 Repository for homework 01
-# My name is Yanting
+#Hello, my name is Yanting Wu
 
-## I am a MAPSS student studying Psychology 
+##I am a MAPSS student studying Psychology 
 
 *I am originally from China*
 
-*I double majored in Psychology and Statistics when I was an undergraduate student at the University of Virginia*
+__*I double majored in Psychology and Statistics when I was an undergraduate student at the University of Virginia*__
 
 **Here are some random fun facts about me**
 1. I have a golden retriever puppy 
@@ -14,7 +14,7 @@ Repository for homework 01
 1. My interests lie in social psychology
 
 ![GitHub Logo](mydogandI.JPG)
-Format: ![Alt Text](url)
 
-#Here is the instagram account for my dog: 
+
+Here is the instagram account for my dog: 
 [Jamie_the_goldengirl](https://www.instagram.com/jamie_the_goldengirl/?hl=en)
