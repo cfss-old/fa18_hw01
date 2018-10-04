@@ -18,7 +18,7 @@ output: html_document
 ### Basics
 
 **Name:** Sanja Miklin  
-ฅʕ•̫͡•ʔฅ *(note: the name is Croatian, it rhymes with 'lasagna')
+ฅʕ•̫͡•ʔฅ *(note: the name is Croatian, it rhymes with 'lasagna')*  
 **Program:** Comparative Human Development  
 **Dissertation Topic:** Production of Knowledge About Suicide  
 
