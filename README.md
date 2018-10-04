@@ -12,5 +12,3 @@ Repository for homework 01
 ![GitHub Logo](mydogandI.JPG)
 Format: ![Alt Text](url)
 
-https://www.instagram.com/jamie_the_goldengirl/?hl=en - automatic!
-[GitHub](http://github.com)
