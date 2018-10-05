@@ -1,6 +1,6 @@
-# hw01
+# Homework assigment 1
 #Bio of Mary Denise Robertson
-I was born in South Africa, and came to Chicago 9 years ago to study a PhD in Anthropology. I like Chicago except the winters are *very* cold.
+I was born in South Africa, and came to Chicago 9 years ago to study a PhD in Anthropology. I like Chicago except the winters are *very* cold. And **very** long. 
 
 ## Time at UChicago
 I like UChicago. My three favorite things are 
@@ -14,4 +14,4 @@ I like UChicago. My three favorite things are
 You can see my LinkedIn Profile [here](https://www.linkedin.com/in/mary-denise-robertson/)
 
 #Reflection
-Figuring out how to open the git file through Rstudio was tricky. I'm going to record my workflow once I figure out this committing to Github part. R Markdown was very straightforward - the linked mastering markdown tutorial on Github was really useful.
+Figuring out how to open the git file through Rstudio was tricky. I originally thought we had to use the shell the way we did when first making repos and committing changes when testing out our software configuration. Once I found the step by step instructions for cloning it was pretty straightforward. R Markdown was very straightforward - the linked 'mastering markdown' tutorial on Github was really useful.
