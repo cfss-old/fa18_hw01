@@ -2,7 +2,7 @@ Tiffany Wu's Biography
 =======================
 Background Information
 ----------------------
-Although my parents are both Taiwanese, I was born in the Chicago suburbs and have lived in Illinois all my life. I did my undergrad at Northwestern Univeristy, which has a bit of a (possibly imaginary) rivalry with UChicago. I was a history and secondary education major and Spanish minor, focusing on ways to improve urban education. During this time I also worked as a RA in Dr. Lindsay Chase-Lansdale's lab on the [Two-Generation Research Initiative for Head Start in Tulsa, Oklahoma](https://www.ipr.northwestern.edu/about/news/2017/chase-lansdale-two-generation.html). 
+Although my parents are both Taiwanese, I was born in the Chicago suburbs and have lived in Illinois all my life. I did my undergrad at Northwestern University, which has a bit of a (possibly imaginary) rivalry with UChicago. I was a history and secondary education major and Spanish minor, focusing on ways to improve urban education. During this time I also worked as a RA in Dr. Lindsay Chase-Lansdale's lab on the [Two-Generation Research Initiative for Head Start in Tulsa, Oklahoma](https://www.ipr.northwestern.edu/about/news/2017/chase-lansdale-two-generation.html). 
 
 ![](https://github.com/tiffany-wu/myrepo/blob/master/TIffany_Northwestern.png?raw=true) 
 
