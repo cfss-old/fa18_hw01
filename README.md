@@ -15,7 +15,7 @@ My name is Elaine Chen. I'm a third-year undergraduate student at the University
 
 I moved around growing up. I was born in Taiwan, and then at three years old, I moved to the Bay Area. I stayed in the Bay Area until the end of middle school, and then I moved back to Asia to Beijing. I stayed in Beijing until high school graduation, and then I came to Chicago for college.
 
-##What I like to do
+##What I do
 
 Here's a list of some the things I'm involved with on campus:
 
