@@ -1,11 +1,12 @@
-# hw01
-Repository for homework 01
-
 Tiffany Wu's Biography
 =======================
 Background Information
 ----------------------
-Although my parents are both Taiwanese, I was born in the Chicago suburbs and have lived in Illinois all my life. I did my undergrad at Northwestern Univeristy, which has a bit of a (possibly imaginary) rivalry with UChicago. I was a history and secondary education major and Spanish minor, focusing on ways to improve urban education. During this time I also worked as a RA in Dr. Lindsay Chase-Lansdale's lab on the [Two-Generation Research Initiative for Head Start in Tulsa, Oklahoma](https://www.ipr.northwestern.edu/about/news/2017/chase-lansdale-two-generation.html). ![HERE](https://github.com/tiffany-wu/myrepo/blob/master/TIffany_Northwestern.png) Here is a picture of me at graduation with some fellow teachers. After I graduated, I taught psychology, sociology, and human geography at an amazing CPS high school ([Lindblom Math & Science Academy](https://lindblomeagles.org/)) on the South Side. Teaching helped develop my interest in the intersection of cognition, education, and technology, and how we can fuse these subjects to design more meaningful learning activities and technologies, especially those that can be easily integrated in urban environments where children like my students have long been underserved. I ultimately decided to leave teaching for an year to further develop these interests here at UChicago.
+Although my parents are both Taiwanese, I was born in the Chicago suburbs and have lived in Illinois all my life. I did my undergrad at Northwestern Univeristy, which has a bit of a (possibly imaginary) rivalry with UChicago. I was a history and secondary education major and Spanish minor, focusing on ways to improve urban education. During this time I also worked as a RA in Dr. Lindsay Chase-Lansdale's lab on the [Two-Generation Research Initiative for Head Start in Tulsa, Oklahoma](https://www.ipr.northwestern.edu/about/news/2017/chase-lansdale-two-generation.html). 
+
+![HERE](https://github.com/tiffany-wu/myrepo/blob/master/TIffany_Northwestern.png) 
+
+Here is a picture of me at graduation with some fellow teachers. After I graduated, I taught psychology, sociology, and human geography at an amazing CPS high school ([Lindblom Math & Science Academy](https://lindblomeagles.org/)) on the South Side. Teaching helped develop my interest in the intersection of cognition, education, and technology, and how we can fuse these subjects to design more meaningful learning activities and technologies, especially those that can be easily integrated in urban environments where children like my students have long been underserved. I ultimately decided to leave teaching for an year to further develop these interests here at UChicago.
 
 What am I doing at UChicago?
 ----------------------------
