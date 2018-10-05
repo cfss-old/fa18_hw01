@@ -1,5 +1,4 @@
 # hw01
-Repository for homework 01
 
 ![conver photo](https://github.com/lpstntw/hw01/blob/master/20170701-DSC_0372%202.jpg)
 
@@ -7,7 +6,7 @@ Repository for homework 01
 My name is **Po-Sheng Lee**, a student in Master of Social Science Program (MAPSS) at Uchicago. My research interest lies broadly in judicial politics, organizational studies and political economy.
 
 Current projects include 
-1. Comparison of *land finance* among China, Taiwan and Hong Kong.
+1. Comparison of * **land finance** * among China, Taiwan and Hong Kong.
 2. The role of court in the process of democratic consolidation and democratic retreat.
 3. Public debt in China
 
