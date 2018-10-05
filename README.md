@@ -6,9 +6,10 @@
 My name is **Po-Sheng Lee**, a student in Master of Social Science Program (MAPSS) at Uchicago. My research interest lies broadly in judicial politics, organizational studies and political economy.
 
 Current projects include 
-1. Comparison of * **land finance** * among China, Taiwan and Hong Kong.
+1. Comparison of ***land finance*** among China, Taiwan and Hong Kong.
 2. The role of court in the process of democratic consolidation and democratic retreat.
-3. Public debt in China
+3. Law and Economic Development
+4. Governmental Debt in China
 
 A sometime photographer and a podcast addict. Here are some podcasts I find useful.
 
