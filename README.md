@@ -1,7 +1,7 @@
 # hw01
 Repository for homework 01
 
-![cover image] 
+![conver photo] 
 (https://github.com/lpstntw/hw01/blob/master/20170701-DSC_0372%202.jpg)
 
 ## About Me
