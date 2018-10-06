@@ -4,7 +4,7 @@
 ## Introduction
 I am a political science student with a strong tech background. I have been programming since I was 10 years old and been working with computers since even earlier. I enjoy fixing computers and doing video game design. 
 
-##Current Skills
+## Current Skills
 * ArcGIS
 * Stata
 * Microsoft Excel
@@ -14,6 +14,6 @@ I am a political science student with a strong tech background. I have been prog
 * Android _(when it doesn't take 3 days to install the development kit)_
 * SQL
 
-##Games
+## Games
 
 Check out my [itch](https://gummywormz.itch.io) page or [website](https://gummywormz.github.io) for all my games!
