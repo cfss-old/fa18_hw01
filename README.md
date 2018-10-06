@@ -34,4 +34,4 @@ I've also learned SPSS and GeoDa, but those aren't actually "coding" softwares.
 
 ### Goodbye.
 
-![Here are the Migos, seeing you out.](https://media1.tenor.com/images/13cc46925a40874ec5432fe43ce7c410/tenor.gif?itemid=9044793)
+![Here are the Migos, seeing you out.](https://i.gifer.com/1qQY.gif)
