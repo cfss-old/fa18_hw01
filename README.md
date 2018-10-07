@@ -6,7 +6,7 @@
 * **Birthday**: I was born on 01/19.
 * **Hometown**: My hometown is Shanghai, China. But I was born and grew up in [Tianjin](https://en.wikipedia.org/wiki/Tianjin), a coastal metropolis in northern China.
 * **Hobbies**: In my spare time, I enjoy reading, painting and watching films.
-* **My Favorite Quote**: * [*There is a crack in everything, that's how the light gets in.*](https://qz.com/835076/leonard-cohens-anthem-the-story-of-the-line-there-is-a-crack-in-everything-thats-how-the-light-gets-in/)
+* **My Favorite Quote**:  [*There is a crack in everything, that's how the light gets in.*](https://qz.com/835076/leonard-cohens-anthem-the-story-of-the-line-there-is-a-crack-in-everything-thats-how-the-light-gets-in/)
 
 ### **Research Interest**    
 Broadly, my research focuses on following domains in marketing and policy-making context.
