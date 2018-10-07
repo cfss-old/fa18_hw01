@@ -1,19 +1,23 @@
 
 
 # hw01
-Repository for homework 01
+##Repository for homework 01
 
-To prepare this following homework assignment, I first needed to create a readme file that was cloned 
+To prepare this following homework assignment, I first needed to create a readme file that was cloned in order to link R Studio to my repository. After formating the below text using the appropriate syntax, I committed these changes, and added them to my repository via R. 
 
-Heading 1 & Bold: About me 
+# <**About me**> tag
 I am a PhD graduate student at the University of Chicago studying political science. I am interested in the following topics:
 
-List: Gender, race, ethnicity, public opinion, political behavior
+* Gender
+* Race and ethnicity
+* Public opinion
+* political behavior
 
-I also have a cat named Milo:
+*I also have a cat named Milo:*
 
-[Image]
+![Milo](/images/IMG_8970.jpeg)
+Format: ![Alt Text](url)
 
-To learn more about me, you can visit the department student website: Link
+#To learn more about me, you can visit the department student website: https://political-science.uchicago.edu/directory/margaret-brower-automatic! [Polsci website](http://political-science.uchicago.edu/directory/margaret-brower)
 
-Reflections:
+
