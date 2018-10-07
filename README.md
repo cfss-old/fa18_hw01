@@ -1,6 +1,6 @@
 # Hi, I am **Jiaqian(Jane) Wang**:)
 
-<div style="width:50%">![](汪嘉倩-head.jpg)
+![](汪嘉倩-head.jpg)
 
 ### **Personal Facts**
 * Birthday: 01/19
