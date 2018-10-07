@@ -3,8 +3,8 @@
 ![](汪嘉倩-head.jpg)
 
 ### **Personal Facts**
-* Birthday: 01/19
-* Hometown: Shanghai, China
+* **Birthday**: 01/19
+* **Hometown**: Shanghai, China
 
 ### **Research Interest**
 * Judgment and decision-making
@@ -12,10 +12,10 @@
 
 ### **Education Background**
 * 2018-2019(Expected)    
-  M.A. in Social Sciences (Psychology)    
+  **M.A. in Social Sciences (Psychology)**    
   The University of Chicago, USA
 * 2014-2018           
-  B.M in Marketing & B.A. in History and Theories of Art     
+  **B.M in Marketing** & **B.A. in History and Theories of Art**     
   Peking University, China
 
 ### **My Favorite Quote**
