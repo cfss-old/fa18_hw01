@@ -1,9 +1,7 @@
 # hw01
-Repository for homework 01
-install.packages("devtools")
-install_github("uc-cfss/rcfss")
+For the purpose of this assignment, my brief biography will follow a list format. 
 # Uninteresting Bio
-* For the purpose of this assignment, my brief biography will follow a list format. 
+
 * The usual start, name. I am **Dalia**, a visiting PoliSci undergrad from Cairo University. It's alright if you mispronounce my name as *Daria*; that's the name of a 90's cartoon character whose personality bizarrely resembles mine.   
 * What brought me here? 
 -- A generous Egyptian billionaire was kind enough to send me and 8 other Egyptians on a one-year scholarship program suitably called under his name, The *Sawiris ISAL Program*. 
