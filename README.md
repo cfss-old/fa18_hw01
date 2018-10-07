@@ -3,7 +3,9 @@ Repository for homework 01
 
 # This is Maria Neely's Homework!
 
-## My name is **Maria Neely** and I am a third year at the College. I am studying Economics and Political Science. Some things I am involved in on campus are: 
+## My name is **Maria Neely** and I am a third year at the College. I am studying Economics and Political Science. 
+
+Some things I am involved in on campus are: 
 * Maya
   * a contemporary dance group
 * Chicago Strategies
