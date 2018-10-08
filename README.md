@@ -1,4 +1,4 @@
-# Abby Bergman ![image](ab.png)
+# Abby Bergman ![image](https://github.com/abbygirlrose/hw01/blob/master/ab.png)
 
 ## Background
 #### I am from Los Angeles, California and have spent four years living in Western Massachusetts. I have a sister and a cat. 
