@@ -8,4 +8,4 @@ _2018 Fall_
 * Concentration: Sociology
    * interested area1: organizations 
    * interested area2:social network
-   
+![This is me](WechatIMG210.jpeg)
