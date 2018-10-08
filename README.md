@@ -9,7 +9,9 @@ Auto-biography
 
 This is a a brief auto-biography of Hong Jin Jo.
 
-![](C:\Users\techbar\Github\CFSS\JO_HONGJIN.jpg "Hong Jin Jo")
+![]("https://github.com/hongjinjo/myrepo/JO_HONGJIN.jpg" "Hong Jin Jo")
+
+myrepo/JO_HONGJIN.jpg 
 
 **Hong Jin Jo** was born in Seoul, Korea in 1988. He has attended the following schools:
 
