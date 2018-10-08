@@ -1,4 +1,4 @@
-# hw01
+# hw01 Po Sheng Lee
 
 ![conver photo](https://github.com/lpstntw/hw01/blob/master/20170701-DSC_0372%202.jpg)
 
