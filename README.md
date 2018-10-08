@@ -1,6 +1,6 @@
 # _**Ava Jurden**_
 
- ![](/Users/Ava/Desktop/Homework1/hw01/linkedin_pic.jpeg)
+ ![](linkedin_pic.jpeg)
  
  
 
