@@ -8,7 +8,7 @@ I am first year Ph.D. sociology student, originally from **Colombia**. Some peop
   + Feta cheese
   + Olives 
   
-You can find my profile here: [link] (https://sociology.uchicago.edu/directory/nicolas-torres-echeverry) 
+You can find my profile here: [link](https://sociology.uchicago.edu/directory/nicolas-torres-echeverry) 
 
 
 
