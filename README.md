@@ -16,6 +16,6 @@ I am first year Ph.D. sociology student, originally from **Colombia**. Some peop
 You can find my profile here: [link] (https://sociology.uchicago.edu/directory/nicolas-torres-echeverry) 
 
 
-![alt text](/Users/Nicolas/Downloads/NTE.jpg)
+![alt text](NTE.jpg)
 
 
