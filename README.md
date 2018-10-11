@@ -14,4 +14,4 @@ A brief poem/saying of mine:
 >تنها می نشینی      
 
 I used to enjoy making music videos out of my favorite tv shows and movies. I no longer do this because it's illegal...but here are some of my old videos on youtube (https://www.youtube.com/user/mochachipss)  
-
+ 
