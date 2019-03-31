@@ -7,6 +7,6 @@ I **LOVE** anything that has to do with international relations, especially US-C
 # Non-nerdy interests
 - Traveling! I traveled to 11 countries last year :) I'm super interested in foreign cultures and I'm friends with people from over 50 countries.
 - Recently got into *Game of Thrones* and tries to analyze every episode applying IR theory (realism!!).
-![photo](/images/logo.png)
+![Photo of me](https://www.dropbox.com/s/ceadozq99aj80n1/DSC_0808.NEF.jpg?dl=0)
 Traveled around the west coast over the winter break with three friends. Photo taken in Zion National Park.
 
