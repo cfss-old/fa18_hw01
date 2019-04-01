@@ -14,5 +14,5 @@ I **LOVE** anything that has to do with international relations
 - Military strategy
 # Non-nerdy interests
 - Traveling! I traveled to 11 countries last year :) I'm super interested in foreign cultures and I'm friends with people from over 50 countries.
-![image](https://goo.gl/images/XHZHtG)
+![alt text](https://goo.gl/images/XHZHtG)
 - Recently got into *Game of Thrones* and tries to analyze every episode applying IR theory (realism!!).
